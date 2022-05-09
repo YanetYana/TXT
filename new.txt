@@ -1,0 +1,7 @@
+"name": "Yana",
+  	"age": 41,
+ 	"pets": 0,
+ 	"salary": 800[D[D[D[D[D[D[D[D[D[A[C[C[C[C[C[C[C[C[C[D[D[D[[A[[C[C[C[C[C[C[A[C[C[D[D[D[[D[D[D[[C[C[C[C[C[C[C[C[D[D[D[D[D[D	[C[C[C[D[D[D[D[D[D[D[D[D[D       [C[C[C[C[C[C[C[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cname - Yana,
+age - 41,
+pets - 0,
+salary - 800
